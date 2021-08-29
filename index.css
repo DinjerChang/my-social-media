@@ -1,0 +1,49 @@
+.carousel-inner{
+    height: 600px;
+}
+
+.carousel-item, img{
+    height: 100% !important;
+    /* width:  100% !important; */
+}
+.navbar-brand {
+  margin-left: 10px !important;
+}
+.card_title {
+  font-size: 23px !important;
+}
+.card-body{
+  max-height: 96px;
+  padding: 20px !important;
+}
+.btn-show-friend {
+  font-size: 18px !important;
+}
+.img-thumbnail {
+  border-radius: 50%;
+}
+h5 {
+  margin-left: 20px;
+  margin-top: 50px;
+}
+input {
+  width: 430px;
+  border-radius: 10%;
+}
+.modal-dialog {
+  height: 800px !important;
+}
+.modal-chat-body {
+  height: 500px !important;
+  max-height: 500px;
+}
+
+.fa-mars{
+  color : lightskyblue
+}
+.fa-venus{
+  color : pink
+}
+.fa-heart{
+  color:red;
+}
